@@ -19,8 +19,8 @@
 " scroll the window when we get near the edge
   set scrolloff=4 sidescrolloff=10
 
-" use 2 spaces for tabs
-  set expandtab tabstop=2 softtabstop=2 shiftwidth=2
+" use 4 spaces for tabs
+  set expandtab tabstop=4 softtabstop=4 shiftwidth=4
   set smarttab
 
 " enable line numbers, and don't make them any wider than necessary
